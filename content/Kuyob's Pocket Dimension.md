@@ -1,0 +1,1 @@
+A pocket dimension that exists in a space outside the universe in the multiverse somewhere. It will mimic the original surroundings of whomever entered it. It contains the [[Tower of Kuyob]] and will also have whichever of the [[Doors of Kuyob]] were used to enter it. this allows [[The Grand Wizard Kuyob]] to better guess where he is at the moment. 

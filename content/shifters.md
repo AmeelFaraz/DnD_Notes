@@ -1,0 +1,1 @@
+Shifter, or Shifta is an obscenity/slur used against [[Wyrdkin]]. 

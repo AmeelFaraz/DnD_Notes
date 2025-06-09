@@ -1,0 +1,1 @@
+A fearsome hulk of an ogre that lives in the [[Ramsted Sewers]]. His past is unknown, as is his connection to [[Immasi]]. [[Basogre]] commands a crew of 8 other ogres within a strength based hierarchy in [[Basogre's Lair]]. 

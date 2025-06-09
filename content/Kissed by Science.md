@@ -1,0 +1,3 @@
+A phenomena of note in the [[Grand Church of Science]]. Affecting only the [[Sanctified Maiden]]s, this blessing manifests upon the Maiden as blistered patches of skin (where science kissed them), a shedding of hair (as science plays with it), weakness (breathless at the sight of science), nausea (being forced away from science), weight loss (the body becoming more beautiful for science), shaking (from excitement at the thought of going back to science), and bloody bowel movements (the body removing impurities before it goes to science again).
+
+The opposite to this is to be spurned by science, which is either an instant death or burns upon the body.

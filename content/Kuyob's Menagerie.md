@@ -1,0 +1,1 @@
+First step to getting to [[Kuyob's Throneroom]]. it involves getting through several complex puzzle rooms all of which are magically fantastical in some way or another
