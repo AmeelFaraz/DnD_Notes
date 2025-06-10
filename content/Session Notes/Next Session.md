@@ -6,10 +6,15 @@
 ## Scenes
 
 ### Reuniting with Alayna
-- still hood (steal lines from NWA)
-- Has been getting Lent more hip so he’ll say ‘as kids these day say’
-- Will still pick up some racism and say shit like shifta and some super cherry picked racist stats ‘13%’
+- still hood (steal lines from NWA but like, fiend/demonized)
+- Has been corrupted a bit into racism but has also corrupted lent a bit so he may a bit puffed up 
+	- if Alayna and Lent are both there at the same time for party then there will be general riffing where alayna will verbally abuse him and he will try to haphazardly respond and say some off shit
+- Will spout wyrdkin racism
 - may mention upping the pole on fools 
+- **Important:** will drop the fact that Lent has been trying to convince madam clorvus to strike at the wyrdkin before Immasi's uprising
+- will also drop hints on how the church has been getting more riled up and perhaps battle-ready with increased soldier presence in the streets and refusing people from coming close to the building after a 'curfew' time
+- mention how lent has talked about the conclave being in uproar over something possibly related to the ranch he has never been to and he left to go spy on that or check that out
+- in good spirits, wants to know where G-Money/G-Slime/G-Dawg/G-Impi is at
 
 ### What Lent has been up to
 - Aside from teaching Alayna to be racist he has atleast made provisions for some of the elderly and young to be hidden in the sewers at the first signs of immasi’s revolution. 
