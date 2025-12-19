@@ -1,0 +1,39 @@
+views:
+  - type: table
+    name: All Items
+    filters:
+      and:
+        - file.inFolder("Items")
+        - '!file.hasTag("publish_exclude")'
+  - type: cards
+    name: Shop Items
+    filters:
+      and:
+        - file.inFolder("Items/Homebrew/Shop")
+        - '!file.name.contains(".base")'
+        - '!file.hasTag("publish_exclude")'
+    order:
+      - file.name
+      - file.tags
+    image: note.CardImage
+    cardSize: 220
+  - type: cards
+    name: Pedestle Items
+    filters:
+      and:
+        - file.inFolder("Items/Homebrew/Church")
+        - '!file.hasTag("publish_exclude")'
+    order:
+      - file.name
+      - file.tags
+    image: note.CardImage
+  - type: cards
+    name: Loot Items
+    filters:
+      and:
+        - file.inFolder("Items/Homebrew/Loot")
+        - '!file.hasTag("publish_exclude")'
+    order:
+      - file.name
+      - file.tags
+    image: note.CardImage
