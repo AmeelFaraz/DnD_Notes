@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Ramsted Characters
+    filters:
+      and:
+        - file.inFolder("Characters & NPCs")
+        - file.hasTag("ramsted")
+  - type: table
+    name: Ranch Characters
+    filters:
+      and:
+        - file.inFolder("Characters & NPCs")
+        - file.hasTag("ranch")
+  - type: table
+    name: Wyrdkin Characters
+    filters:
+      and:
+        - file.inFolder("Characters & NPCs")
+        - file.hasTag("wyrdkin")
+  - type: table
+    name: Church Characters
+    filters:
+      and:
+        - file.inFolder("Characters & NPCs")
+        - file.hasTag("church")

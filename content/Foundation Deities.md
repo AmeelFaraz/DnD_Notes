@@ -1,5 +1,0 @@
-Being of Immense and Unimaginable power that were responsible for creating the multiverse. The three beings widely regarded as the most important or perhaps the only [[Foundation Deities]] are [[The Rodfather]] , [[The Potion Master]], and [[The Essence]]. Of these, the two that have direct impact on the world are The Rodfather and The Potionmaster, with The Essence being more of a formless mostly sentient mass of magic, similar to Arc Warden. Both of the other two deities are technically at the mercy of the essence, as it is what allows them to create however it also relies on the two to be able to maintain a consciousness. The rods and potions balance each other by requiring each other (a bottle is simply an open top rod, while a rod needs a potion(lava or liquid glass etc) to be made.)
-
-The Dieties are forbidden from directly interfering with the happenings of the multiverse. This is due to the [[Influence Pact]] they decided upon to avoid multiverse destruction. As such, they need a [[Divine Avatar]] to influence things when they want. 
-
-The foundational deities can break the fourth wall and know about Ameel, the true creator of their world. 

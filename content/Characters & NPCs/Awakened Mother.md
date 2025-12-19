@@ -1,3 +1,8 @@
+---
+tags:
+  - ramsted_coast
+  - wilderness
+---
 An incredibly powerful (and subsequently dangerous) entity that requires dark rituals and blood sacrifice to create. 
 
 ---

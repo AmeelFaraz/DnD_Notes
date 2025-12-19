@@ -1,3 +1,7 @@
+---
+tags:
+  - ramsted
+---
 The intrepid adventurer, scientist, theologian, shipwright, sailor, writer, actor, musician, doctor, poet, architect, singer, songwriter, soldier, mercenary and detective to name his most recent exploits. Responsible for gathering [[The Party]] and investigating the [[Death Disease]].
 
 ---
@@ -30,9 +34,9 @@ Danth had begun investigating the [[Grand Church of Science]] and uncovered seve
 
 Danth was told about the [[The Orme House of Healing]] and how they worked with the church in order to create their inoculation ritual 
 
-Danth did not have good insight with the [[Wyrdkin]] as he was a human. however, parts of his journal indicate a woman he suspected was secretly a wyrdkin was responding well to his advances, and he hoped he would be able to learn more about the group #unfinished_plot_thread 
+Danth did not have good insight with the [[Wyrdkin]] as he was a human.%% however, parts of his journal indicate a woman he suspected was secretly a wyrdkin was responding well to his advances, and he hoped he would be able to learn more about the group. who was this woman? maybe cucking br haim #unfinished_plot_thread #privated %% 
 
-Danth had knowledge of what was going on in [[Ramsted Ranch|The  Ranch]], and while his notebook covers his disapproval, he does grimly note that these types of groups are all too common in the world. However, as he was not interested in the political state of the area, he did not dig too deep into the level of corruption involved. He talked with [[Effery Jepstein]] about how the ranch and its people had avoided proportional targeting by the [[Death Disease]]. How DID they avoid getting hit with death disease? #unfinished_plot_thread 
+Danth had knowledge of what was going on in [[Ramsted Ranch|The  Ranch]], and while his notebook covers his disapproval, he does grimly note that these types of groups are all too common in the world. However, as he was not interested in the political state of the area, he did not dig too deep into the level of corruption involved. He talked with [[D Piddy]] about how the ranch and its people had avoided proportional targeting by the [[Death Disease]] but never recieved more than a coy invitation to find out.
 
 Danth also had contact with the [[City Government]], as they were in power when the [[Death Disease]] first took hold in the area. He had an ongoing correspondence with [[Jonathan Clorvus]] and [[Rosenbaum Lent]] regarding the history of the disease and its spread. however, the correspondence had stopped a few week before Danth's death, as [[Jonathan Clorvus| Clorvus]] indicated he feared for his safety for a while. 
 

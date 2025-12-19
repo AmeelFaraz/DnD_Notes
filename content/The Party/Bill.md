@@ -28,6 +28,11 @@ Looking for his first-mate, [[Geraldo]] as he suspects him to have played a part
 
 ---
 ## Items
-> list of items the person has, particularly any magic items or quest relevant ones
+
+bit of rope %% rubbing the bit will expand the scrap into a rope 5 foot long rope. after 1 minute, the rope will return to a bit%%
+
+almost shiny stone %% while its size remains small enough to enclose in a fist, its weight will fluctuate every time you grab it, between 1-20 pounds %%
+
+gnarled stick %%small animals are extremely fascinated with it and will follow the stick and try to get close to it if they see it%%
 
 ---

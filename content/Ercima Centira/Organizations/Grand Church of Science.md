@@ -1,3 +1,8 @@
+---
+CardImage: "[[GCS Inspo Image.png]]"
+tags:
+  - organization
+---
 Followers of the First Prophet Xarrod, who preached about the evils of false unsubstantiated faiths and the one true god of the world, science
 
 ---
@@ -10,7 +15,7 @@ Leadership of the Church is noted in [[Grand Church of Science Hierarchy]]
 
 To reconstruct the body of science there must be quests sent out to to track it and bring it back to the church. There are suspected areas of sciences resting places around the [[Ramsted]] area which are to be investigated and processed.
 
-The Archbishop [[Willium Nylus]] is playing a political game with the Cardinal and the Pope. He hopes to be promoted and moved to a more happening area
+%%The Archbishop [[Willium Nylus]] is playing a political game with the Cardinal and the Pope. He hopes to be promoted and moved to a more happening area #privated%%
 
 [[Deacon Clein]] is trying to expand his personal wealth and general influence by abusing church institutions to his own gain. he has his fingers in several other groups, all of which seem to be suspicious of him. 
 
@@ -21,7 +26,7 @@ The church seeks to be the sole power in a city so that it can use all of its re
 - [[Deacon Clein]] succeeded in the latter, with the government being a splintered shell of what it once was
 
 Obtain parts of the body of science and combine it with the larger [[Body of Science]] under the church.
-- to this end, the Church may need a new (perhaps a few) [[Sanctified Maiden]].
+- to this end, the Church may need a new (perhaps a few) [[Grand Church of Science Hierarchy#Sanctified Maiden of the Grand Church of Science|Sanctified Maiden]].
 
 Discover who or what has been directing attacks against the church, primarily in regards to the Lustcubus. 
 - [[Deacon Dahc]] believes this to be the work of Clein, in league with outside forces

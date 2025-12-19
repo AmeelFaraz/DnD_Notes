@@ -1,0 +1,12 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Important Ramsted Organizations
+    filters:
+      and:
+        - file.hasTag("organization")
+    order:
+      - file.name
+    cardSize: 200
+    image: note.CardImage

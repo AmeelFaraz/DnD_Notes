@@ -20,6 +20,12 @@ Complete the task of investigating the ramsted area for the company and accompli
 
 ---
 ## Items
-> list of items the person has, particularly any magic items or quest relevant ones
+
+![[Sahaugin High Priestess’s Staff]]
+
+![[The Equalizer]]
+
+
+
 
 ---

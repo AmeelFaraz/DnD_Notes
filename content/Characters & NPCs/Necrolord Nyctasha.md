@@ -1,3 +1,8 @@
+---
+tags:
+  - sepulchre
+  - publish_exclude
+---
 A necromancer that has been quietly amassing immense power and influence behind the scenes. He contains a high amount of [[The Essence]] within him. 
 
 He is behind the spread of the [[Death Disease]] in the land by locating and imitating the [[Curse of Naymor]] and has a hand in or been a driving force behind almost every major event or conflict in the Ramsted area to further his cause (and the ritual). 

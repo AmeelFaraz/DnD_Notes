@@ -1,15 +1,23 @@
-#session_organization 
- [[May 30th - Back from the Hills|Next Session]]
+---
+tags:
+  - session_organization
+---
+ [[May 30th - Back at Ramsted|Next Session]]
 
 ---
+#### Leaving the Mine
 - The Party leaves the Hundred Hills after defeating the Balor.
 
+#### Outside the Mine
 - The Village outside is under attack by the hill trolls as the mind control has now worn off (after the destruction of the Crystal Emitters )
 	- The party step in and quickly defeat the remaining trolls
 
 - leave the village with a promise to escort a shipment of metal to Ramsted. 
 	- Thawaa signs the shipping manifest
 
+#### Path back to Ramsted
+
+##### Meeting with Rodney
 - On the way back they run into Timchel, who is now happily in conversation with JaRod "Rodney" McRoddy, Travelling Rod Salesman
 	- seems to have Timchel under some sort of spell as Timchel doesnt seem the least bit annoyed that he was sold a rod that couldnt move.
 
@@ -33,8 +41,10 @@
 	- Importantly, he does not install the rod of lightning into the penetrating piercer which means that the contract is not yet fulfilled, or perhaps violated 
 
 - Party finds that the rods they were given were largely useless 
+
+##### Meeting Faifil and the Bard 
 - Party comes across a two headed ogre cooking a bard over a spit 
-	- This ogre Faifal (fil for short) has been eating children and surrounding villagers 
+	- This ogre Faifil (fil for short) has been eating children and surrounding villagers 
 	- It is not good at counting and wants to find some mango chutney as it heard that is good food 
 	- Mr scratch solve this by telling ogre a way to summon ‘mango chutneys’ by hitting a pose and waiting for an octopus to appear. 
 	- While this works in the short term, the ogre is not completely stupid and will start eating people again once the chutney doesn’t appear again #unfinished_plot_thread 

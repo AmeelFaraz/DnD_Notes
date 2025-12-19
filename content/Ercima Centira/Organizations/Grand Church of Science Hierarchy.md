@@ -8,7 +8,7 @@ The head of the church, he oversees everything about the church. A long and stor
 ### Cardinal of the Grand Church of Science
 
 A group of the most important members of the church. The pope’s successor is chosen from amongst the cardinals by the previous pope. This leads to many cardinals curry for favor with the pope rather than doing their administrative duties over their designated regions.
-Cardinals can be established in the Central Grand Church or in any particular church within their region. Recently, more and more cardinals have begun to move to the Central Grand Church in order to curry favor with the Pope #unfinished_plot_thread 
+Cardinals can be established in the Central Grand Church or in any particular church within their region.%% Recently, more and more cardinals have begun to move to the Central Grand Church in order to curry favor with the Pope #unfinished_plot_thread #privated %%
 
 
 ### Archbishop of the Grand Church of Science

@@ -1,3 +1,9 @@
+---
+tags:
+  - ramsted
+  - church
+  - ranch
+---
 one of the [[Grand Church of Science Hierarchy#Deacon of the Grand Church of Science|Deacons of the Grand Church of Science]]. Responsible for protecting the church from outside forces as well as furthering the churches interests over other groups in the city, he uses his contacts for personal gains as he is corrupt.
 
 ---
@@ -40,8 +46,8 @@ Clein has had some dealings with the [[Wyrdkin]], as he wanted to ensure safe pa
 
 He is being targeted by [[Madam Clorvus]] but doesnt know it. All remaining higher members of the [[City Government]] hate him and wish to destroy him
 
-Clein was a regular at [[Ramsted Ranch]] and was very familiar with the ones who ran it as well as what they were doing behind the scenes. He had a sizeable number of gambling debts there and a large unpaid tab. the Ranch heads also have other forms of blackmail and leverage over him.
-- Clein was fearful that the Ranch owners had put out some sort of hit on him which is one of the reasons he disappeared (too much heat from too many places)
+Clein was a regular at [[Ramsted Ranch]] and was very familiar with the ones who ran it as well as what they were doing behind the scenes.%% He had a sizeable number of gambling debts there and a large unpaid tab. the Ranch heads also have other forms of blackmail and leverage over him.
+- Clein was fearful that the Ranch owners had put out some sort of hit on him which is one of the reasons he disappeared (too much heat from too many places) 
 
-Where has Clein ran off to? perhaps the poisnous mire? maybe he is also just hiding in the sewers? that sounds kinda bad too many people in the sewers...cant be at kuyobs place because he isnt a super acomplished wizard or anything i thin khe would be like a corrupted cleric and rogue or something. maybe hes hiding as a guard at the church?? #unfinished_plot_thread 
+Where has Clein ran off to? perhaps the poisnous mire? maybe he is also just hiding in the sewers? that sounds kinda bad too many people in the sewers...cant be at kuyobs place because he isnt a super acomplished wizard or anything i thin khe would be like a corrupted cleric and rogue or something. maybe hes hiding as a guard at the church?? #unfinished_plot_thread #privated %%
 

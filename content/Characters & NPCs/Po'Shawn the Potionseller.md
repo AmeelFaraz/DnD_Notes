@@ -1,3 +1,7 @@
+---
+tags:
+  - ramsted
+---
 The potion seller at [[Ramsted Marketplace]]. Known for extremely potent potions, he is usually very hesitant in allowing adventurers to try out his positions for fear of their strength. 
 
 ---
@@ -8,7 +12,7 @@ The potion seller at [[Ramsted Marketplace]]. Known for extremely potent potions
 #### Characterization
 >explanation of who the character is in terms of their personality and some backstory
 #### Other
-He is a minor agent of [[The Potion Master]] and is not fully aware of what the deity wants of him.  Similar to all minor agents, the direct will of the [[Foundation Deities]] is only really made aware to those with enough of their power concentrated in them. Otherwise, agents have to either get direct orders from a [[Divine Avatar]] or follow the subconscious whims that mirror the Deities intent.
+He is a minor agent of [[The Potion Master]] and is not fully aware of what the deity wants of him.  %%Similar to all minor agents, the direct will of the [[Foundation Deities]] is only really made aware to those with enough of their power concentrated in them. Otherwise, agents have to either get direct orders from a [[Divine Avatar]] or follow the subconscious whims that mirror the Deities intent. #privated %%
 
 ---
 ## Goals

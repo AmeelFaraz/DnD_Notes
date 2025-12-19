@@ -1,3 +1,8 @@
+---
+tags:
+  - ramsted
+  - wyrdkin
+---
 The strong-willed and keen leader of the [[Wyrdkin]]. While his past is shrouded in mystery, what is evident and obvious is that he will get what he perceives as justice for his people, through any means necessary. 
 
 ---
@@ -10,7 +15,7 @@ A 6ft tall and leanly muscular WereRat, Immasi wears two longswords at his sides
 [[Immasi]] does not think very highly of human. In fact, he is outright dismissive and largely racist towards them. He is also holds a deep mistrust for them. However, this is likely in reaction to the centuries of abuse and oppression the [[Wyrdkin]] have undergone. Pushed into the [[Ramsted Sewers]], he plots on how to exact his justice upon the hateful surface dwellers that have hurt his people. 
 He is shrewd and cunning, and knows that overthrowing the humans in control is not something that can be done overnight, which is why he has spent years preparing his people and gathering resources for this endeavor. 
 #### Other
-Immasi was an adventurer or mercenary or something which is how he got his fighting ability. Perhaps he ran into something that blessed him and turned him into an animal lord? Or perhaps his spirit will return as a true animal lord when he dies? #unfinished_plot_thread 
+%%Immasi was an adventurer or mercenary or something which is how he got his fighting ability. Perhaps he ran into something that blessed him and turned him into an animal lord? Or perhaps his spirit will return as a true animal lord when he dies? #unfinished_plot_thread #privated %%
 
 ---
 ## Goals
@@ -44,17 +49,17 @@ Immasi has a [[Patron’s Shards|Patron Shard]] that can be collected after doin
 
 Immasi is explicitly at odds with the [[City Government]], however he is not factoring them into his plans as he doesn't think they are enough left to matter. he does know of [[Jonathan Clorvus]], [[Rosenbaum Lent]], [[Tom Thedrow]], and [[Venka Arton]] but not in their newer 'rebel' or 'outcast' capacity. He also does not know much regarding [[Madam Clorvus]] or her organization efforts. This is largely because he doesn't believe the racist and uppity humans would ever come down into the sewers which lets them get away with operating in the sewers under Immasi's nose. 
 
-Immasi is getting money from [[Ramsted Ranch]] as he needs to keep his people fed somehow. They have so far only extracted promises of safety but Immasi knows that there are strings attached to this. Maybe ranch already has some leverage? #unfinished_plot_thread 
+Immasi is getting money and food from [[Ramsted Ranch]] as he needs to keep his people fed somehow. They have so far only extracted promises of safety but Immasi knows that there are strings attached to this. The Ranch gives Immasi supplies in exchange for him kidnapping human(or humanoid, whatever) orphans for the ranch. Immasi has agreed to this on the condition that the wyrdkin children would not be touched. This agreement has been put in jeopardy by the Ranch revealing that they were the ones that hired the party all along.
 
 ---
 ## Items
+%%
+![[Ban]]
 
-Ban
+![[Mute]]
 
-Mute
+![[Kick]]
 
-Kick
+![[Item List#Immasi's Amulet]]
 
-Immasi's Amulet
-
-
+%%

@@ -1,1 +1,0 @@
-The Physical church for the religion of the [[Grand Church of Science]]. 

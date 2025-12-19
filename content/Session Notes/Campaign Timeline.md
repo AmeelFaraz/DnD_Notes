@@ -80,8 +80,73 @@
 - party beats the balor with help of the Minor Miners
 - party begins to go back to ramsted
 ---
->new day
+>1 day
 - party meets rodney
 - party meets bard and ogre
 - party get back to ramsted (day one basically over now) 
-- 12TH DAY, ONLY 3-4 MORE TILL IMMASI UPRISING AFTER HE SPED UP TIMELINE
+- party steals 2 more items from church
+- party meets wyrdkin dissenters
+- party meets Madam clorvus and the rest of the government leadership
+---
+> 1 Day
+
+- Party meets with venka arton
+- party goes to slums to find undertaker, fight undertaker
+- party goes to the ranch
+- party gambles and goes to the back with venka
+- Party meet the shopkeeper again, puss and venka draw from the deck of many things
+- party is taken to the showers and some participate in a rodeo
+- party investigates the sauna
+- party is confronted by D Piddy
+- Party acts as Piddy goons for 4 conversations
+- thawaa gets one more shard 
+- party confronts immasi about what occured, get his shard
+- immasi sends his elites to go get tarrasque infusions
+---
+> 1 Day
+
+- party talks with deacon dahc about the ranch
+- party goes off to find Kinra
+- defeat a bunch of goblins 
+- find out about animal election stuff
+- agree to help
+---
+> NEW DAY
+
+- party executes charlie chirp plan
+- There is still about a day of travel to get to the coast, chariot is faster, so will probably be able to take them back to city fast enough to get to city 
+- 2 DAYS LEFT
+
+%%
+## Future Plans/ Outline
+
+- party should go to the ranch
+	- after talking with D Piddy, need to see if theyll listen in to conversation, try to investigate the orphanage
+	- tarrasque super soldiers
+	- 
+- what happens next? they can talk to the church, they can talk to immasi. they will likely not talk to the conclave or house. Dahc will be getting people kitted out, there will be movement of the church forces. after party has  their final conversations, uprising will start. maybe immasi will try to strike church first unless party tells him what would be a better target? conclave will also be ready for a fight but more easily overwhelmed. the ranch has its own amalgamations these will help stop any fighting from spilling over into it (yet). three main factions, maybe the ex gov will interrupt and fight everytone as well but they are much weaker. look into war games to see how this could work or be arranged for a 4 way fight thing.
+- immasis uprising happens, end of certain questlines and npc deaths, city outlook changed.
+- party can go to blacksmith, do mystery thing there and get some quest or hook to go to the blast zone
+- blast zones leads to doors of kuyob and have party meet kuyob himself
+- kuyob reveals the location of death disease focus to be beyond or in the middle of the poisonous mire
+- if not kuyob, the party can also be encouraged to go to the mire area after a psychic connection to ferina gets triggered to send a dream or maybe just a scream
+- mire area should be new setting, with opportunity for new home base and stuff.. first night in the mire should make it clear its impossible to navigate without help, some feywilds type shit.
+- need either the help of the fairies/sprites there who are suffering from their own problems (charlatan king, talking about his great treaties with the humans and how important and well known he is outside) or the bullywug pirates (huhaah, tally ho then! on with you then!! )
+- mire stuff will also have ties to second part of kraken stuff, leading into series of quests and seafaring adventure, possibly go find animals to hitch to chariot, then do naval fights with kraken forces till final big battle where the kraken and ferina show off and party win the day.
+- mire will also have some hag stuff. perhaps arch hag coven thing? serves as a first guard to the necromancer lair
+- shadowsbane reapperance, sabotaging things?
+- after big kraken stuff or sprite/wug society things party finally goes to necromancer area (force them to get to kuyob before this) and then campaign ending necromancer fight. #privated 
+
+---
+%%
+## Previous Sessions
+
+- [[May 25th - Return from Hundred Hills]]
+- [[May 30th - Back at Ramsted]]
+- [[June 13th - Getting your bearings]]
+- [[June 21st - Meeting the Madam]]
+- [[June 28th - Ghosts, Ghouls and Gambling]]
+- [[July 17th - Winners never quit]]
+- [[August 16th - The Showers at Ram Ranch]]
+- [[August 31st - Conversations of a Delicate Nature]]
+- 

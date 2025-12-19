@@ -1,0 +1,5 @@
+---
+tags:
+  - publish_exclude
+---
+The oldest pact ever made, between the three foundational deities as a means of maintaining the fabric of the multiverse.
